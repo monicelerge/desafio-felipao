@@ -12,10 +12,17 @@ Os níveis são definidos pelas seguintes faixas de XP:
 XP (Experiência)	Nível:
 
 Abaixo de 1.000	Ferro
+
 1.001 a 2.000	Bronze
+
 2.001 a 5.000	Prata
+
 5.001 a 7.000	Ouro
+
 7.001 a 8.000	Platina
+
 8.001 a 9.000	Ascendente
+
 9.001 a 10.000	Imortal
+
 Acima de 10.001	Radiante
